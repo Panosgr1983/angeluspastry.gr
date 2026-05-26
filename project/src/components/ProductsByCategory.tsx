@@ -33,7 +33,8 @@ export function ProductsByCategory() {
         setSelectedCategory(categories[0].id);
       }
     }
-  }, [categories]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [categories, categoryFromUrl, setSearchParams]);
 
   if (categoriesLoading || productsLoading) {
     return (
