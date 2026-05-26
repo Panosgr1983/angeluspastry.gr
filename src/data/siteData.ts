@@ -358,7 +358,7 @@ const productImages: Record<string, string> = {
   'Sprite 330ml': 'https://res.cloudinary.com/duvtwanvc/image/upload/v1779831409/angelus/angelus/image090.jpg',
   'Fanta πορτοκάλι 330ml': 'https://res.cloudinary.com/duvtwanvc/image/upload/v1779831409/angelus/angelus/image091.jpg',
   'Νερό 500ml': 'https://res.cloudinary.com/duvtwanvc/image/upload/v1779831409/angelus/angelus/image092.jpg',
-  'Χυμός πορτοκάλι': 'https://res.cloudinary.com/duvtwanvc/image/upload/v1779831409/angelus/angelus/image093.png',
+  'Χυμός πορτοκάλι': 'https://res.cloudinary.com/duvtwanvc/image/upload/v1779832921/angelus/angelus/image093.png',
   'Λεμονάδα σπιτική': 'https://res.cloudinary.com/duvtwanvc/image/upload/v1779831409/angelus/angelus/image094.jpg',
 };
 
