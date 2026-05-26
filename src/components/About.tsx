@@ -2,8 +2,8 @@ import { useEffect, useState } from 'react';
 import { Users, Award, Clock, Heart } from 'lucide-react';
 
 const storeImages = [
-  'https://media.base44.com/images/public/6a10b7c951aba23547779a69/53c7b3787_katastima-1.png',
-  '/complete_logo.jpg',
+  'https://res.cloudinary.com/duvtwanvc/image/upload/v1779832053/angelus/katastima-1.png',
+  'https://res.cloudinary.com/duvtwanvc/image/upload/v1779832057/angelus/complete_logo.jpg',
   'https://images.pexels.com/photos/2253643/pexels-photo-2253643.jpeg?auto=compress&cs=tinysrgb&w=1200',
   'https://images.pexels.com/photos/2067396/pexels-photo-2067396.jpeg?auto=compress&cs=tinysrgb&w=1200',
   'https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg?auto=compress&cs=tinysrgb&w=1200',
