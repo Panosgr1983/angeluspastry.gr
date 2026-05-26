@@ -1,0 +1,19 @@
+import { Hero } from '../components/Hero';
+import { FeaturedProducts } from '../components/FeaturedProducts';
+import { ProductsByCategory } from '../components/ProductsByCategory';
+import { About } from '../components/About';
+import { Contact } from '../components/Contact';
+import { Reviews } from '../components/Reviews';
+
+export function HomePage() {
+  return (
+    <>
+      <Hero />
+      <FeaturedProducts />
+      <ProductsByCategory />
+      <About />
+      <Reviews />
+      <Contact />
+    </>
+  );
+}
